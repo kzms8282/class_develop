@@ -40,3 +40,4 @@ docs: READMEの更新
 
 member-list
 杉田
+北山
