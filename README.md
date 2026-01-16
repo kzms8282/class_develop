@@ -40,4 +40,6 @@ docs: READMEの更新
 
 member-list
 中村正和
+杉田
 北山
+赤地礼音
