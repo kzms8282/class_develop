@@ -21,6 +21,11 @@ def generat(path, widht, height, number):
     color_img.putdata(color_data)
     color_img.save(str(path / f"{number:03}.png"), format="PNG")
 
+
+num = 5
+
+num = 60
+
 num = 5
 for i in range(num):
     generat(movie_dir, width, height, i)
