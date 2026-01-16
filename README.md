@@ -40,3 +40,4 @@ docs: READMEの更新
 
 member-list
 北山
+赤地礼音
